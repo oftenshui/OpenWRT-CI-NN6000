@@ -19,7 +19,7 @@ https://www.right.com.cn/forum/thread-8402269-1-1.html
 
 固件信息里的时间为编译开始的时间，方便核对上游源码提交时间。
 
-QUALCOMMAX系列NN6000设备，其他设备请去原项目。
+QUALCOMMAX系列NN6000设备，其他设备请去[原项目](https://github.com/davidtall/OpenWRT-CI)。
 
 # 目录简要说明：
 
